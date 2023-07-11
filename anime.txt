@@ -1,3 +1,3 @@
-Boku no Hero,113,6,O bixo é forte
-Demon Slayer,44,2,Respira pohra KKKKKKK
-Shimai Maou No Testament,24,2,KKKKKKK anime de fracassado
+Boku no Hero;113;6;O bixo é forte
+Demon Slayer;44;2;Respira pohra KKKKKKK
+Shimai Maou No Testament;24;2;KKKKKKK anime de fracassado
