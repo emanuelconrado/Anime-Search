@@ -1,3 +1,4 @@
-Boku no Hero;113;6;O bixo é forte
-Demon Slayer;44;2;Respira pohra KKKKKKK
-Shimai Maou No Testament;24;2;KKKKKKK anime de fracassado
+Boku no Hero Academia;My Hero Academia;僕のヒーローアカデミア;113;6;Middle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end.
+Kimetsu no Yaiba;Demon Slayer;鬼滅の刃;44;2;It follows teenage Tanjiro Kamado, who strives to become a Demon Slayer after his family was slaughtered and his younger sister, Nezuko, turned into a demon.
+Shimai Maou No Testament;The Testament of Sister New Devil;新妹魔王の 契約者 テスタメント;24;2;After having been chased to her wit's end by Takashi, master of Byakko the Spirit Spear, Mio finds herself in a pinch. Yuki has made her last stand, and the wounded Basara has yet to regain consciousness.
+One Piece;One Piece;ワンピース;1068;1;The story follows the adventures of Monkey D. Luffy and his crew, the Straw Hat Pirates, where he explores the Grand Line in search of the mythical treasure known as the "One Piece" in order to become the next King of the Pirates.
