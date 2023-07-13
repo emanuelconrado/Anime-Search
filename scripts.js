@@ -34,6 +34,7 @@ function searchAnime(input, dados) {
     console.log(input);
     console.log(dados);
     for (let i = 0; i < dados.length; i++) {
+
         if (dados[i].nome.toLowerCase().indexOf(input.toLowerCase()) !== -1 || dados[i].englishName.toLowerCase().indexOf(input.toLowerCase()) !== -1 || dados[i].japaneseName.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
             document.querySelector(".english-name").innerHTML = dados[i].englishName;
             document.querySelector(".japanese-name").innerHTML = dados[i].japaneseName;
@@ -53,5 +54,8 @@ function searchAnime(input, dados) {
 
 function buttomClick() {
     const input = document.querySelector(".search").value;
+    if(input === ""){
+        input = "###";
+    }
     dadosColetor(input);
 }
