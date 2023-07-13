@@ -34,7 +34,7 @@ function searchAnime(input, dados) {
     console.log(input);
     console.log(dados);
     for (let i = 0; i < dados.length; i++) {
-        if (dados[i].nome.indexOf(input) !== -1 || dados[i].englishName.indexOf(input) !== -1 || dados[i].japaneseName.indexOf(input) !== -1) {
+        if (dados[i].nome.toLowerCase().indexOf(input.toLowerCase()) !== -1 || dados[i].englishName.toLowerCase().indexOf(input.toLowerCase()) !== -1 || dados[i].japaneseName.toLowerCase().indexOf(input.toLowerCase()) !== -1) {
             document.querySelector(".english-name").innerHTML = dados[i].englishName;
             document.querySelector(".japanese-name").innerHTML = dados[i].japaneseName;
             document.querySelector(".episodes").innerHTML = "Episodes: " + dados[i].epsisodes;

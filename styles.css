@@ -37,6 +37,12 @@
     border-radius: 20px;
  }
 
+    .search:hover{
+        transform: scale(1.01);
+        background-color: #9A344B;
+        transition: 0.3s all;
+    }
+
 .search-buttom{
     border: none;
     outline: none;
@@ -47,12 +53,19 @@
     float: right;
 }
 
+.search-buttom:hover{
+    transform: scale(1.1);
+    background-color: #9A344B;
+    transition: 0.3s all;
+}
+
 .img-buttom{
     width: 25px;
 }
 
 .img-buttom:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
+    transition: 0.3s all;
 }
 
 .info-box{
@@ -91,4 +104,35 @@
     font-weight: 300;
     margin: 5px;
     justify-content: center;
+}
+
+.footer-box{
+    margin-top: 10px;
+    bottom: 3px;
+    position: absolute;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.buttom-add{
+    opacity: 0.9;
+    display: flex;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: #2B1C13;
+    cursor: pointer;
+    float: center;
+}
+
+.buttom-add:hover{
+    transform: scale(1.1);
+    background-color: #9A344B;
+    transition: 0.3s all;
 }
